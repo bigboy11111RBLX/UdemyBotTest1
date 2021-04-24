@@ -9,4 +9,4 @@ bot.on('message', async (msg) => {
     await msg.reply('Hi');
 });
 
-bot.login('ODIwMTM5NDY0NzY0NTU1Mjg0.YEw0ZQ.fmDNWBCsYccpLbKP842M1bGAwqA');
+bot.login('boop');
